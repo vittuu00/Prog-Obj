@@ -1,2 +1,0 @@
-# poo
-Ex charts - json
